@@ -16,6 +16,3 @@ class Shoe
     puts "Your shoes are red"
   end
 end
-
-shoe1=Shoe.new("new")
-puts colorer
