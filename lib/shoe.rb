@@ -14,4 +14,5 @@ class Shoe
   def colorer
     @color = "red"
     puts "Your shoes are red"
+  end
 end
