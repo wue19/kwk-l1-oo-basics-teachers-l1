@@ -6,13 +6,10 @@ class Shoe
     @brand = brand
   end
 
-  def cobble
+  def cojon
     @condition = "new"
     puts "Your shoe is as good as new!"
   end
   
-  def colorer
-    @color = "red"
-    puts "Your shoes are red"
-  end
+  
 end
