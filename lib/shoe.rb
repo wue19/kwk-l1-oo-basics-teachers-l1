@@ -10,4 +10,8 @@ class Shoe
     @condition = "new"
     puts "Your shoe is as good as new!"
   end
+  
+  def colorer
+    @color = "red"
+    puts "Your shoes are red"
 end
