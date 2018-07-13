@@ -18,4 +18,4 @@ class Shoe
 end
 
 shoe1=Shoe.new("new")
-puts @color
+puts colorer
